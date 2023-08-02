@@ -37,6 +37,11 @@ button{
     border-color: rgb(33, 33, 33);
     
 }
+#video1{
+    margin-right: 5%;
+    margin-left: 70%;
+    
+}
 .link-container {
     display: flex;
     justify-content: space-around;
