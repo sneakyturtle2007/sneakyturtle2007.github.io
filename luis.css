@@ -28,11 +28,7 @@ p{
     position: absolute;
    
 }
-img{
+.images_and_video{
+    padding-top: 75%;
     object-fit: cover;
-    
-}
-video{
-    object-fit: cover;
-
 }
