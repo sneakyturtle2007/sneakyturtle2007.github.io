@@ -26,11 +26,7 @@ p{
     display: flex;
     justify-content: space-around;
 }
-#img1{
-    display: block;
-    margin: 0 650px;
-}
-#icons{
+.icons{
     position: absolute;
     width: 400px;
     height: 100px;
