@@ -30,9 +30,10 @@ p{
     text-align: right;
 }
 button{
-    background-color: rgb(33, 33, 33);
-    border-radius: 6px;
-    width: 60px;
+    background-color: rgb(50, 50, 50);
+    border-radius: 13px;
+    height:60px;
+    width: 150px;
     border-color: rgb(33, 33, 33);
     
 }
