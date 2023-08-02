@@ -29,6 +29,15 @@ p{
    
 }
 .images_and_video{
-    padding-top: 75%;
+    padding-top: 60%;
+    padding-bottom: 20% ;
     object-fit: cover;
+}
+#image1{
+    padding-left: 0%;
+    padding-right: 50%;
+}
+#video1{
+    padding-left: 50%;
+    padding-right: 0%;
 }
