@@ -1,5 +1,6 @@
 body{
     background-color : rgb(33, 33, 33);
+    background-size: cover;
 }
 h1{
     color: rgb(220,220,220);
@@ -28,4 +29,9 @@ p{
 #img1{
     display: block;
     margin: 0 650px;
+}
+#icons{
+    position: absolute;
+    width: 400px;
+    height: 100px;
 }
