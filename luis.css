@@ -29,7 +29,9 @@ p{
 button{
     background-color: rgb(33, 33, 33);
     border-radius: 6px;
-    width: 
+    width: 60px;
+    border-color: rgb(33, 33, 33);
+    color: rgb(220,220,220);
 }
 .link-container {
     display: flex;
