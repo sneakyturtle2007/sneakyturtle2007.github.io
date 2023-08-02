@@ -25,9 +25,14 @@ p{
 .link-container {
     display: flex;
     justify-content: space-around;
-}
-.icons{
     position: absolute;
     width: 400px;
     height: 100px;
+}
+img{
+    object-fit: cover;
+}
+video{
+    object-fit: cover;
+
 }
