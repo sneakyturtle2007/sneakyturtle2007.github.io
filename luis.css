@@ -1,0 +1,15 @@
+body{
+    background-color : rgb(33, 33, 33);
+}
+h1{
+    color: rgb(220,220,220);
+    text-align: center;
+}
+h2{
+    color: rgb(220,220,220);
+    text-align: center;
+}
+.link-container {
+    display: flex;
+    justify-content: space-around;
+}
