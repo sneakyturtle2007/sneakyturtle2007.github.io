@@ -10,6 +10,9 @@ h2{
     color: rgb(220,220,220);
     text-align: center;
 }
+h3{
+    color: rgb(220,220,220);
+}
 p{
     color: rgb(220,220,220);
     text-align: center;
@@ -31,7 +34,7 @@ button{
     border-radius: 6px;
     width: 60px;
     border-color: rgb(33, 33, 33);
-    color: rgb(220,220,220);
+    
 }
 .link-container {
     display: flex;
