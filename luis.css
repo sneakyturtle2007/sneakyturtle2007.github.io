@@ -31,8 +31,7 @@ p{
 }
 img{
     object-fit: cover;
-    height: 100px;
-    width: 200px;
+    
 }
 video{
     object-fit: cover;
