@@ -19,13 +19,15 @@ p{
 }
 #p1{
     
-    text-align: left;
-    width: 100px;
+    margin-left: 30%;
+    margin-right: 70%;
+    width: 200px;
 }
 #p2{
-    
+    margin-left: 30%;
+    margin-right: 70%;
     text-align: left;
-    width: 100px;
+    width: 200px;
 }
 #image1{
     margin-left: 50%;
@@ -40,7 +42,7 @@ button{
     
 }
 #video1{
-    width: 300px;
+    
     margin-left: 50%;
     margin-right: 50%;
 
