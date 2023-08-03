@@ -18,18 +18,18 @@ p{
     text-align: center;
 }
 #p1{
-    color: rgb(220,220,220);
+    
     text-align: left;
     width: 100px;
 }
 #p2{
-    color: rgb(220,220,220);
+    
     text-align: left;
     width: 100px;
 }
 #image1{
-    margin-left:auto;
-    margin-right: auto;
+    margin-left: 50%;
+    margin-right: 50%;
 }
 button{
     background-color: rgb(50, 50, 50);
@@ -40,9 +40,9 @@ button{
     
 }
 #video1{
-    
-   margin-left: auto;
-   margin-right: auto;
+    width: 300px;
+    margin-left: 50%;
+    margin-right: 50%;
 
 }
 .link-container {
