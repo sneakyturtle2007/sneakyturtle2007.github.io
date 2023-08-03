@@ -19,9 +19,10 @@ p{
 }
 #p1{
     text-align: left;
+    width: 60px;
 }
 #p2{
-    text-align: right;
+    width: 60px;
 }
 #image1{
     align-self: center;
