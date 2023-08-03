@@ -16,6 +16,9 @@ p{
     margin-left: 20px;
     margin-right: 20px;
 }
+.navbar li{
+    float: left;
+}
 .navbar ul{
     list-style-type:none;
     background-color: rgb(66,66,66);
