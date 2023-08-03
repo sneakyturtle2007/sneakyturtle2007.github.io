@@ -50,17 +50,11 @@ button{
     border-color: rgb(33, 33, 33);
     
 }
-#video1{
-    
-    margin-left: 50%;
-    margin-right: 50%;
 
-}
 .link-container {
     display: flex;
     justify-content: space-around;
 }
-.alignment{
-    display: flex;
-    justify-content: space-between;
+@media screen and (max-width:600px){
+    
 }
