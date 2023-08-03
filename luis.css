@@ -37,14 +37,22 @@ p{
 .navbar a:hover{
     background-color: rgb(99,99,99);
 }
+img{
+    max-width: 100%;
+    height: auto;
+}
+.image, .video {
+    flex: 1;
+    padding: 10px;
+    box-sizing:border-box;
+}
 footer{
     margin-left: 20px;
     margin-right: 20px;
 }
 video{
-    margin-left: 30%;
-    margin-right: 70%;
-    width: 500px;
+    max-width: 100%;
+    height: auto;
 }
 button{
     background-color: rgb(50, 50, 50);
@@ -54,7 +62,14 @@ button{
     border-color: rgb(33, 33, 33);
     
 }
-
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width:800px;
+    margin: 0 auto;
+}
 .link-container {
     display: flex;
     justify-content: space-around;
