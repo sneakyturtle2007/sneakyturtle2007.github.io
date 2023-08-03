@@ -24,9 +24,7 @@ p{
     text-align: right;
 }
 #image1{
-    position: relative;
-    left: auto;
-    
+    margin-right: 20;
 }
 button{
     background-color: rgb(50, 50, 50);
