@@ -41,7 +41,10 @@ footer{
     margin-left: 20px;
     margin-right: 20px;
 }
-
+video{
+    align-self: center;
+    width: 500px;
+}
 button{
     background-color: rgb(50, 50, 50);
     border-radius: 13px;
@@ -56,5 +59,7 @@ button{
     justify-content: space-around;
 }
 @media screen and (max-width:600px){
-    
+    video{
+        width:max-content;
+    }
 }
