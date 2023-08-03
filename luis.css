@@ -23,7 +23,11 @@ p{
 #p2{
     text-align: right;
 }
-
+#image1{
+    position: relative;
+    left: auto;
+    
+}
 button{
     background-color: rgb(50, 50, 50);
     border-radius: 13px;
