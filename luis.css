@@ -18,18 +18,20 @@ p{
     text-align: center;
 }
 #p1{
-    
-    margin-left: 30%;
-    margin-right: 70%;
     width: 200px;
+    
+    
 }
 #p2{
-    margin-left: 30%;
-    margin-right: 70%;
-    text-align: left;
+    
+    
     width: 200px;
 }
 #image1{
+    margin-left: 50%;
+    margin-right: 50%;
+}
+#image2{
     margin-left: 50%;
     margin-right: 50%;
 }
