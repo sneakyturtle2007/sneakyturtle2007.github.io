@@ -24,8 +24,7 @@ p{
     text-align: right;
 }
 #image1{
-    margin-right: 30%;
-    margin-left: 40%;
+    align-content: center;
 }
 button{
     background-color: rgb(50, 50, 50);
@@ -37,8 +36,7 @@ button{
 }
 #video1{
     
-    margin-right: 30%;
-    margin-left: 45%;
+   align-content: center;
 
 }
 .link-container {
