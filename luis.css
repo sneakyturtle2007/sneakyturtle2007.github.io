@@ -37,19 +37,13 @@ p{
 .navbar a:hover{
     background-color: rgb(99,99,99);
 }
-img{
-    max-width: 100%;
-    height: auto;
-}
+
 
 footer{
     margin-left: 20px;
     margin-right: 20px;
 }
-video{
-    max-width: 100%;
-    height: auto;
-}
+
 button{
     background-color: rgb(50, 50, 50);
     border-radius: 13px;
