@@ -55,7 +55,7 @@ button{
 .centered-container{
     display: flex;
     justify-content: space-around;
-    align-items: center;
+   
 }
 .link-container {
     display: flex;
