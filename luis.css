@@ -42,7 +42,7 @@ img{
     height: auto;
 }
 .image, .video {
-    flex: 1;
+    flex-basis: 48%;
     padding: 10px;
     box-sizing:border-box;
 }
