@@ -52,7 +52,12 @@ button{
     border-color: rgb(33, 33, 33);
     
 }
-
+.centered-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
 .link-container {
     display: flex;
     justify-content: space-around;
@@ -62,6 +67,6 @@ button{
         display:flex;
         justify-content: space-around;
         flex-direction: column;
-        align-content: center;
+        
     }
 }
