@@ -54,8 +54,8 @@ button{
 }
 .centered-container{
     display: flex;
-    justify-content: center;
-
+    justify-content: space-around;
+    align-items: center;
 }
 .link-container {
     display: flex;
