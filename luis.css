@@ -58,7 +58,7 @@ button{
     justify-content: space-around;
 }
 @media screen and (max-width:600px){
-    video{
-        width:max-content;
+    .link-container{
+        display:flex;
     }
 }
