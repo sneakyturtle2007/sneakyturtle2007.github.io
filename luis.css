@@ -57,8 +57,10 @@ button{
     display: flex;
     justify-content: space-around;
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:800px){
     .link-container{
         display:flex;
+        justify-content: space-around;
+        flex-direction: column;
     }
 }
