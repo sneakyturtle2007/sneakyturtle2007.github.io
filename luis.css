@@ -41,11 +41,7 @@ img{
     max-width: 100%;
     height: auto;
 }
-.image, .video {
-    flex-basis: 70%;
-    padding: 10px;
-    box-sizing: border-box;
-}
+
 footer{
     margin-left: 20px;
     margin-right: 20px;
@@ -62,14 +58,7 @@ button{
     border-color: rgb(33, 33, 33);
     
 }
-.container{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 100%;
-    max-width:800px;
-    margin: 0 auto;
-}
+
 .link-container {
     display: flex;
     justify-content: space-around;
